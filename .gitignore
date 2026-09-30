@@ -1,0 +1,47 @@
+# 编译产物
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.pch
+
+# 临时文件
+*.log
+*.tlog
+*.tmp
+*.temp
+Thumbs.db
+Desktop.ini
+
+# VS 编译和项目垃圾
+.vs/
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+*.user
+*.suo
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.exp
+*.sdf
+*.opensdf
+*.sln.docstates
+.vscode/settings.json
+
+# VS 项目文件（可选排除）
+*.vcxproj.filters
+*.sln
+*.vcxproj
+
+
+# 大二进制数据文件
+*.wav
+*.bin
